@@ -5,7 +5,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Alberto\n");
+            Console.WriteLine("Welcome to your first Pokemon game\n");
             
             Monster m1 = new Monster("M1", 1);
             Monster m2 = new Monster("M2", 2);
